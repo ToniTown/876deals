@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>876 Deals - Live Like A Tourist</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to 876 Deals</h1>
+        <p>Discover the best local deals on hotels, restaurants, goods, events, and more!</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Deals</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <section>
+        <h2>About 876 Deals</h2>
+        <p>876 Deals is an online marketplace that offers deeply discounted prices on local hotels, restaurants, goods, events, and experiences in Jamaica. We bring you exclusive "local only" deals, allowing you to live like a tourist without breaking the bank.</p>
+    </section>
+    
+    <section>
+        <h2>Featured Deals</h2>
+        <ul>
+            <li><a href="#">50% Off Luxury Hotel Stay</a></li>
+            <li><a href="#">2-for-1 Dining at Top Restaurants</a></li>
+            <li><a href="#">Exciting Adventure Experiences</a></li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 876 Deals. All rights reserved.</p>
+        <p>Contact us: info@876deals.com</p>
+    </footer>
+</body>
+</html>
